@@ -1,6 +1,8 @@
 breadboard-friends
 ==================
 
+https://mutable-instruments.net/archive/bbf/
+
 A collection of cute breakout boards riding solderless breadboards, mostly for analog audio works
 
 These PCB layouts and schematics are released under a Creative Commons cc-by-sa
